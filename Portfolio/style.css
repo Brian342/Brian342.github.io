@@ -39,9 +39,10 @@ body {
 
 }
 
-.header .sticky {
-    background: yellowgreen;
+.header.sticky {
+    background: var(--bg-color);
 }
+
 .logo{
     font-size: 2.5rem;
     color: var(--text-color);
