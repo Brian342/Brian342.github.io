@@ -35,7 +35,12 @@ body {
     justify-content: space-between;
     align-items: center;
     z-index: 100;
+    transition: .3s;
 
+}
+
+.header .sticky {
+    background: yellowgreen;
 }
 .logo{
     font-size: 2.5rem;
